@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぷりきゅきゅ",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2026-01-13T09:32:33.272302Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぷりきゅきゅ",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_ぷりきゅきゅ_CUTIE_STREET.txt"
+    }
+  ]
+}
